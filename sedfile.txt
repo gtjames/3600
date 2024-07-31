@@ -1,0 +1,16 @@
+total 80
+-rw-r--r--  1 garyjames  staff     43 Jul 22 11:18 3600.code-workspace
+-rwxr-xr-x  1 garyjames  staff  33720 Jul 23 09:27 ascii
+-rw-r--r--  1 garyjames  staff   1009 Jul 24 12:16 ascii.c
+drwxr-xr-x@ 3 garyjames  staff     96 Jul 22 11:07 ascii.dSYM
+-rwxr-xr-x  1 garyjames  staff    100 Jul 26 22:37 cleanj.sh
+-rw-r--r--  1 garyjames  staff    132 Jul 24 08:45 date.txt
+-rw-r--r--  1 garyjames  staff    120 Jul 27 22:34 g
+-rw-r--r--  1 garyjames  staff    113 Jul 27 22:25 gasoline.txt
+-rw-r--r--  1 garyjames  staff    168 Jul 26 22:17 grades.txt
+-rw-r--r--  1 garyjames  staff    398 Jul 26 21:37 letter.txt
+-rw-r--r--  1 garyjames  staff    157 Jul 26 22:08 minor.sed
+-rw-r--r--  1 garyjames  staff    743 Jul 26 22:21 minor1.gawk
+-rw-r--r--  1 garyjames  staff      0 Jul 29 10:05 sedfile.txt
+-rw-r--r--@ 1 garyjames  staff    860 Jul 29 10:04 sedfile.txt-e
+-rw-r--r--  1 garyjames  staff   1907 Jul 26 22:42 x
