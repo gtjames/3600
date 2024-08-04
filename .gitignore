@@ -1,5 +1,6 @@
 .vscode/*
 *.dSYM/*
-.DS_Store/*
 *.
 .DS_Store
+tempCodeRunnerFile.c
+main
